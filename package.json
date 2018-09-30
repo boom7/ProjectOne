@@ -1,0 +1,19 @@
+{
+  "name": "jsbasics",
+  "version": "1.0.0",
+  "description": "A demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "4.16.1",
+    "mongoose": "~3.6.13"
+  },
+  "author": "Bodeetorn <bodeetorn@gmail.com>",
+  "license": "ISC"
+}
